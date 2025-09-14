@@ -1,7 +1,7 @@
-# Must-read papers on GNN
-GNN: graph neural network
+# Must-read papers on UAVs
+UAVs: Unmanned Aerial Vehicles
 
-Contributed by Jie Zhou, Ganqu Cui, Zhengyan Zhang and Yushi Bai.
+Contributed by Peng Liang, Beibei Liu, and Jingwei Wang.
 
 ## [Content](#content)
 
@@ -1962,5 +1962,6 @@ Contributed by Jie Zhou, Ganqu Cui, Zhengyan Zhang and Yushi Bai.
 1. **Unveiling the potential of Graph Neural Networks for network modeling and optimization in SDN.** ACM SOSR 2019. [paper](https://arxiv.org/pdf/1901.08113.pdf)
 
     *Krzysztof Rusek, José Suárez-Varela, Albert Mestres, Pere Barlet-Ros, Albert Cabellos-Aparicio.*
+
 
 
