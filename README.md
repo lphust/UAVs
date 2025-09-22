@@ -10,7 +10,7 @@ Contributed by Peng Liang, Beibei Liu, and Jingwei Wang.
 ## [Table of Content](#content)
 
 <table>
-<tr><td colspan="2"><a href="#review-articles">1. Review Articles</a></td></tr> 
+<tr><td colspan="2"><a href="#review-articles">1. Review articles</a></td></tr> 
 <tr><td colspan="2"><a href="#three-dimensional-path-planning">2. 3D path planning</a></td></tr>
 <tr><td colspan="2"><a href="#applications">3. Applications</a></td></tr> 
 <tr>
@@ -40,7 +40,11 @@ Contributed by Peng Liang, Beibei Liu, and Jingwei Wang.
     
 ## [Three-dimensional path planning](#content)   
 
+   **Unmanned aerial vehicles (UAVs): practical aspects, applications, open challenges, security issues, and future trends**
 
+   Intelligent Service Robotics, 2023. [survey](https://doi.org/10.1007/s11370-022-00452-4)
+
+   *Syed Agha Hassnain Mohsan, Nawaf Qasem Hamood Othman, Yanlong Li, Mohammed H. Alsharif & Muhammad Asghar Khan*
 
 ## [Applications](#content)
 
@@ -57,6 +61,7 @@ Contributed by Peng Liang, Beibei Liu, and Jingwei Wang.
 
 
 ### [Monitoring](#content)
+
 
 
 
