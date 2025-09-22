@@ -63,7 +63,7 @@ Contributed by Peng Liang, Beibei Liu, and Jingwei Wang.
 </tr>
 </table>
 
-## [Survey papers](#content)
+## [Review articles](#content)
 1. **Introduction to Graph Neural Networks.** Synthesis Lectures on Artificial Intelligence and Machine Learning, Morgan & Claypool Publishers, 2020. [book](https://www.morganclaypool.com/doi/10.2200/S00980ED1V01Y202001AIM045)
 
     *Zhiyuan Liu, Jie Zhou.* 
@@ -1966,6 +1966,7 @@ Contributed by Peng Liang, Beibei Liu, and Jingwei Wang.
 1. **Unveiling the potential of Graph Neural Networks for network modeling and optimization in SDN.** ACM SOSR 2019. [paper](https://arxiv.org/pdf/1901.08113.pdf)
 
     *Krzysztof Rusek, José Suárez-Varela, Albert Mestres, Pere Barlet-Ros, Albert Cabellos-Aparicio.*
+
 
 
 
