@@ -857,7 +857,7 @@ Contributed by Peng Liang, Beibei Liu, and Jingwei Wang.
 
 	*Sungyong Seo, Chuizheng Meng, Yan Liu.*
 
-### [Chemistry and Biology](#content)
+### [Agriculture](#content)
 
 1. **Convolutional networks on graphs for learning molecular fingerprints.** NIPS 2015. [paper](https://arxiv.org/pdf/1509.09292.pdf)
 
@@ -1966,6 +1966,7 @@ Contributed by Peng Liang, Beibei Liu, and Jingwei Wang.
 1. **Unveiling the potential of Graph Neural Networks for network modeling and optimization in SDN.** ACM SOSR 2019. [paper](https://arxiv.org/pdf/1901.08113.pdf)
 
     *Krzysztof Rusek, José Suárez-Varela, Albert Mestres, Pere Barlet-Ros, Albert Cabellos-Aparicio.*
+
 
 
 
