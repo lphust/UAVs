@@ -19,8 +19,8 @@ This repository is an up-to-date list of significant papers related to UAV sched
     <td>&ensp;<a href="#agriculture">6.2 Agriculture</a></td>
 </tr> 
 <tr>
-    <td>&ensp;<a href="#delivery">6.3 Delivery/Transportation</a></td>
-    <td>&ensp;<a href="#monitoring">6.4 Monitoring/Emergency response</a></td>
+    <td>&ensp;<a href="#delivery/transportation">6.3 Delivery/Transportation</a></td>
+    <td>&ensp;<a href="#monitoring/emergency-response">6.4 Monitoring/Emergency response</a></td>
 </tr>
 
 
@@ -111,6 +111,7 @@ This repository is an up-to-date list of significant papers related to UAV sched
    Computer Communications, 2021. [survey](https://doi.org/10.1016/j.comcom.2021.01.003)
 
    *Zakria Qadir, Fahim Ullah, Hafiz Suliman Munawar, Fadi Al-Turjman*
+
 
 
 
