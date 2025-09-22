@@ -3,7 +3,7 @@
 ## [Description](#description)
 UAVs: Unmanned Aerial Vehicles
 
-This repository is an up-to-date list of significant AI papers organized by publication date. It covers five fields : computer vision, natural language processing, audio processing, multimodal learning and reinforcement learning. Feel free to give this repository a star if you enjoy the work.
+This repository is an up-to-date list of significant papers related to UAV scheduling. It covers five fields : computer vision, natural language processing, audio processing, multimodal learning and reinforcement learning. Feel free to give this repository a star if you enjoy the work.
 
 Contributed by Peng Liang, Beibei Liu, and Jingwei Wang.
 
@@ -1914,6 +1914,7 @@ Contributed by Peng Liang, Beibei Liu, and Jingwei Wang.
 1. **Unveiling the potential of Graph Neural Networks for network modeling and optimization in SDN.** ACM SOSR 2019. [paper](https://arxiv.org/pdf/1901.08113.pdf)
 
     *Krzysztof Rusek, José Suárez-Varela, Albert Mestres, Pere Barlet-Ros, Albert Cabellos-Aparicio.*
+
 
 
 
