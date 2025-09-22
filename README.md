@@ -19,7 +19,7 @@ This repository is an up-to-date list of significant papers related to UAV sched
     <td>&ensp;<a href="#agriculture">6.2 Agriculture</a></td>
 </tr> 
 <tr>
-    <td>&ensp;<a href="#delivery">6.3 Delivery</a></td>
+    <td>&ensp;<a href="#delivery">6.3 Delivery/Transportation</a></td>
     <td>&ensp;<a href="#monitoring">6.4 Monitoring</a></td>
 </tr>
 
@@ -90,7 +90,7 @@ This repository is an up-to-date list of significant papers related to UAV sched
 
    *Shahi, Tej Bahadur, Cheng-Yuan Xu, Arjun Neupane, and William Guo*
 
-### [Delivery](#content)
+### [Delivery/Transportation](#content)
 
 1. **Unmanned Aerial Vehicles in Last-Mile Parcel Delivery: A State-of-the-Art Review**
 
@@ -111,6 +111,7 @@ This repository is an up-to-date list of significant papers related to UAV sched
    Computer Communications, 2021. [survey](https://doi.org/10.1016/j.comcom.2021.01.003)
 
    *Zakria Qadir, Fahim Ullah, Hafiz Suliman Munawar, Fadi Al-Turjman*
+
 
 
 
