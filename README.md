@@ -11,7 +11,7 @@ Contributed by Peng Liang, Beibei Liu, and Jingwei Wang.
 
 <table>
 <tr><td colspan="2"><a href="#review-articles">1. Review Articles</a></td></tr> 
-<tr><td colspan="2"><a href="#models">2. 3D path planning</a></td></tr>
+<tr><td colspan="2"><a href="#three-dimensional-path-planning">2. 3D path planning</a></td></tr>
 <tr>
     <td>&ensp;<a href="#basic-models">2.1 Basic Models</a></td>
     <td>&ensp;<a href="#graph-types">2.2 Graph Types</a></td>
@@ -76,7 +76,7 @@ Contributed by Peng Liang, Beibei Liu, and Jingwei Wang.
 
    *Mohsan SAH, Khan MA, Noor F, Ullah I, Alsharif MH*
     
-## [Models](#content)   
+## [Three-dimensional path planning](#content)   
 
 ### [Basic Models](#content)
 1. **Supervised Neural Networks for the Classification of Structures.** IEEE TNN 1997. [paper](https://ieeexplore.ieee.org/abstract/document/572108)
@@ -1914,6 +1914,7 @@ Contributed by Peng Liang, Beibei Liu, and Jingwei Wang.
 1. **Unveiling the potential of Graph Neural Networks for network modeling and optimization in SDN.** ACM SOSR 2019. [paper](https://arxiv.org/pdf/1901.08113.pdf)
 
     *Krzysztof Rusek, José Suárez-Varela, Albert Mestres, Pere Barlet-Ros, Albert Cabellos-Aparicio.*
+
 
 
 
