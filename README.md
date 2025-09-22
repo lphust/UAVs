@@ -27,7 +27,7 @@ Contributed by Peng Liang, Beibei Liu, and Jingwei Wang.
 <tr><td colspan="2"><a href="#applications">3. Applications</a></td></tr> 
 <tr>
     <td>&ensp;<a href="#smart-cities">3.1 Smart cities</a></td>
-    <td>&ensp;<a href="#chemistry-and-biology">3.2 Agriculture</a></td>
+    <td>&ensp;<a href="#agriculture">3.2 Agriculture</a></td>
 </tr> 
 <tr>
     <td>&ensp;<a href="#knowledge-graph">3.3 Knowledge Graph</a></td>
@@ -1966,6 +1966,7 @@ Contributed by Peng Liang, Beibei Liu, and Jingwei Wang.
 1. **Unveiling the potential of Graph Neural Networks for network modeling and optimization in SDN.** ACM SOSR 2019. [paper](https://arxiv.org/pdf/1901.08113.pdf)
 
     *Krzysztof Rusek, José Suárez-Varela, Albert Mestres, Pere Barlet-Ros, Albert Cabellos-Aparicio.*
+
 
 
 
