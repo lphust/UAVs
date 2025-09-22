@@ -30,37 +30,11 @@ Contributed by Peng Liang, Beibei Liu, and Jingwei Wang.
     <td>&ensp;<a href="#agriculture">3.2 Agriculture</a></td>
 </tr> 
 <tr>
-    <td>&ensp;<a href="#knowledge-graph">3.3 Knowledge Graph</a></td>
+    <td>&ensp;<a href="#knowledge-graph">3.3 Delivery</a></td>
     <td>&ensp;<a href="#recommender-systems">3.4 Recommender Systems</a></td>
 </tr>
-<tr>
-    <td>&ensp;<a href="#computer-vision">3.5 Computer Vision</a></td>
-    <td>&ensp;<a href="#natural-language-processing">3.6 Natural Language Processing</a></td>
-</tr> 
-<tr>
-    <td>&ensp;<a href="#generation">3.7 Generation</a></td>
-    <td>&ensp;<a href="#combinatorial-optimization">3.8 Combinatorial Optimization</a></td>
-</tr> 
-<tr>
-    <td>&ensp;<a href="#adversarial-attack">3.9 Adversarial Attack</a></td>
-    <td>&ensp;<a href="#graph-clustering">3.10 Graph Clustering</a></td>
-</tr>
-<tr>
-    <td>&ensp;<a href="#graph-classification">3.11 Graph Classification</a></td>
-    <td>&ensp;<a href="#reinforcement-learning">3.12 Reinforcement Learning</a></td>
-</tr>
-<tr>
-    <td>&ensp;<a href="#traffic-network">3.13 Traffic Network</a></td>
-    <td>&ensp;<a href="#few-shot-and-zero-shot-learning">3.14 Few-shot and Zero-shot Learning</a></td>
-</tr>
-<tr>
-    <td>&ensp;<a href="#program-representation">3.15 Program Representation</a></td>
-    <td>&ensp;<a href="#social-network">3.16 Social Network</a></td>
-</tr> 
-<tr>
-    <td>&ensp;<a href="#graph-matching">3.17 Graph Matching</a></td>
-    <td>&ensp;<a href="#computer-network">3.18 Computer Network</a></td>
-</tr>
+
+
 </table>
 
 ## [Review articles](#content)
@@ -1784,136 +1758,6 @@ Contributed by Peng Liang, Beibei Liu, and Jingwei Wang.
 
 	*Chuanpan Zheng, Xiaoliang Fan, Cheng Wang, Jianzhong Qi.*
 
-### [Few-shot and Zero-shot Learning](#content)
-
-1. **Few-Shot Learning with Graph Neural Networks.** ICLR 2018. [paper](https://arxiv.org/pdf/1711.04043.pdf)
-
-    *Victor Garcia, Joan Bruna.* 
-
-1. **Prototype Propagation Networks (PPN) for Weakly-supervised Few-shot Learning on Category Graph.** IJCAI 2019. [paper](https://arxiv.org/pdf/1905.04042.pdf)
-
-    *Lu Liu, Tianyi Zhou, Guodong Long, Jing Jiang, Lina Yao, Chengqi Zhang.*
-
-1. **Edge-labeling Graph Neural Network for Few-shot Learning.** CVPR 2019. [paper](https://arxiv.org/pdf/1905.01436.pdf)
-
-    *Jongmin Kim, Taesup Kim, Sungwoong Kim, Chang D. Yoo.*
-    
-1. **Generating Classification Weights with GNN Denoising Autoencoders for Few-Shot Learning.** CVPR 2019. [paper](https://arxiv.org/pdf/1905.01102.pdf)
-
-    *Spyros Gidaris, Nikos Komodakis.*
-    
-1. **Zero-shot Recognition via Semantic Embeddings and Knowledge Graphs.** CVPR 2018. [paper](https://arxiv.org/pdf/1803.08035.pdf)
-
-    *Xiaolong Wang, Yufei Ye, Abhinav Gupta.* 
-
-1. **Rethinking Knowledge Graph Propagation for Zero-Shot Learning.** CVPR 2019. [paper](https://arxiv.org/pdf/1805.11724.pdf)
-
-    *Michael Kampffmeyer, Yinbo Chen, Xiaodan Liang, Hao Wang, Yujia Zhang, Eric P. Xing.* 
-
-1. **Multi-Label Zero-Shot Learning with Structured Knowledge Graphs.** CVPR 2018. [paper](https://arxiv.org/pdf/1711.06526.pdf)
-
-    *Chung-Wei Lee, Wei Fang, Chih-Kuan Yeh, Yu-Chiang Frank Wang.* 
-
-1. **Learning to Propagate for Graph Meta-Learning.** NeurIPS 2019. [paper](http://papers.nips.cc/paper/by-source-2019-610)
-
-	*LU LIU, Tianyi Zhou, Guodong Long, Jing Jiang, Chengqi Zhang.*
-
-1. **Zero-Shot Video Object Segmentation via Attentive Graph Neural Networks** ICCV 2019. [paper](https://arxiv.org/pdf/2001.06807.pdf)
-
-    *Wenguan Wang, Xiankai Lu, Jianbing Shen, David Crandall, Ling Shao.*
-
-1. **Attribute Propagation Network for Graph Zero-­shot Learning.** AAAI 2020. [paper]()
-
-	*LU LIU, Tianyi Zhou, Guodong Long, Jing Jiang, Chengqi Zhang.*
-
-1. **Graph Few-­‐shot Learning via Knowledge Transfer.** AAAI 2020. [paper](https://arxiv.org/abs/1910.03053)
-
-	*Huaxiu Yao, Chuxu Zhang, Ying WEI, Meng Jiang, Suhang Wang, Junzhou Huang, Nitesh Chawla, Zhenhui Li.*
-
-1. **FEW-SHOT LEARNING ON GRAPHS VIA SUPER-CLASSES BASED ON GRAPH SPECTRAL MEASURES.** ICLR 2020. [paper](https://openreview.net/pdf?id=Bkeeca4Kvr)
-
-	*Jatin Chauhan, Deepak Nathani, Manohar Kaul.*
-
-1. **Learning to Extrapolate Knowledge: Transductive Few-shot Out-of-Graph Link Prediction.** NeurIPS 2020. [paper](https://arxiv.org/abs/2006.06648)
-
-	*Jinheon Baek, Dong Bok Lee, Sung Ju Hwang.*
-
-1. **Graph Meta Learning via Local Subgraphs.** NeurIPS 2020. [paper](https://papers.nips.cc/paper/2020/hash/412604be30f701b1b1e3124c252065e6-Abstract.html)
-
-    *Kexin Huang, Marinka Zitnik.*
-
-### [Program Representation](#content)
-
-1. **Learning to Represent Programs with Graphs.** ICLR 2018. [paper](https://arxiv.org/abs/1711.00740)
-
-    *Miltiadis Allamanis, Marc Brockschmidt, Mahmoud Khademi.*
-
-1. **Open Vocabulary Learning on Source Code with a Graph-Structured Cache.** ICML 2019. [paper](https://arxiv.org/pdf/1810.08305)
-
-    *Milan Cvitkovic, Badal Singh, Anima Anandkumar.*
-
-1. **Devign: Effective Vulnerability Identification by Learning Comprehensive Program Semantics via Graph Neural Networks.** NeurIPS 2019. [paper](http://papers.nips.cc/paper/by-source-2019-5389)
-
-	*Yaqin Zhou, Shangqing Liu, Jingkai Siow, Xiaoning Du, Yang Liu.*
-
-1. **LambdaNet: Probabilistic Type Inference using Graph Neural Networks.** ICLR 2020. [paper](https://openreview.net/pdf?id=Hkx6hANtwH)
-
-	*Jiayi Wei, Maruth Goyal, Greg Durrett, Isil Dillig.*
-
-1. **HOPPITY: LEARNING GRAPH TRANSFORMATIONS TO DETECT AND FIX BUGS IN PROGRAMS.** ICLR 2020. [paper](https://openreview.net/pdf?id=SJeqs6EFvB)
-
-	*Elizabeth Dinella, Hanjun Dai, Ziyang Li, Mayur Naik, Le Song, Ke Wang.*
-
-### [Social Network](#content)
-
-1. **Link Prediction Based on Graph Neural Networks.** NeurIPS 2018. [paper](https://arxiv.org/pdf/1802.09691.pdf)
-   
-    *Muhan Zhang, Yixin Chen.*
-
-1. **DeepInf: Social Influence Prediction with Deep Learning.** KDD 2018. [paper](https://arxiv.org/pdf/1807.05560.pdf)
-
-    *Jiezhong Qiu, Jian Tang, Hao Ma, Yuxiao Dong, Kuansan Wang, Jie Tang.*
-
-1. **Characterizing and Forecasting User Engagement with In-app Action Graph: A Case Study of Snapchat.** KDD 2019. [paper](https://arxiv.org/pdf/1906.00355)
-
-    *Yozen Liu, Xiaolin Shi, Lucas Pierce, Xiang Ren.*
-
-1. **MCNE: An End-to-End Framework for Learning Multiple Conditional Network Representations of Social Network.** KDD 2019. [paper](https://arxiv.org/pdf/1905.11013)
-
-    *Hao Wang, Tong Xu, Qi Liu, Defu Lian, Enhong Chen, Dongfang Du, Han Wu, Wen Su.*
-
-1. **Is a Single Vector Enough? Exploring Node Polysemy for Network Embedding.** KDD 2019. [paper](https://arxiv.org/pdf/1905.10668)
-
-    *Ninghao Liu, Qiaoyu Tan, Yuening Li, Hongxia Yang, Jingren Zhou, Xia Hu.*
-
-1. **Encoding Social Information with Graph Convolutional Networks for Political Perspective Detection in News Media.** ACL 2019. [paper](https://www.cs.purdue.edu/homes/dgoldwas//downloads/papers/LiG_acl_2019.pdf)
-
-    *Chang Li, Dan Goldwasser.*
-    
-1. **Fine-grained Event Categorization with Heterogeneous Graph Convolutional Networks.** IJCAI 2019. [paper](https://arxiv.org/pdf/1906.04580.pdf)
-
-    *Hao Peng, Jianxin Li, Qiran Gong, Yangqiu Song, Yuanxing Ning, Kunfeng Lai, Philip S. Yu.*
-
-1. **Graph Convolutional Networks with Markov Random Field Reasoning for Social Spammer Detection.** AAAI 2020. [paper](http://staff.ustc.edu.cn/~liandefu/paper/aaai2020_spammer.pdf)
-
-	*Yongji Wu, Defu Lian, Yiheng Xu, Le Wu, Enhong Chen.*
-
-1. **Rumor Detection on Social Media with Bi-Directional Graph Convolutional Networks.** AAAI 2020. [paper](https://arxiv.org/abs/2001.06362)
-
-	*Tian Bian, Xi Xiao, Tingyang Xu, Peilin Zhao, Wenbing Huang, Yu Rong, Junzhou Huang.*
-
-### [Graph Matching](#content)
-
-1. **Deep Graph Matching Consensus.** ICLR 2020. [paper](https://openreview.net/pdf?id=HyeJf1HKvS)
-
-	*Matthias Fey, Jan E. Lenssen, Christopher Morris, Jonathan Masci, Nils M. Kriege.*
-
-
-### [Computer Network](#content)
-
-1. **Unveiling the potential of Graph Neural Networks for network modeling and optimization in SDN.** ACM SOSR 2019. [paper](https://arxiv.org/pdf/1901.08113.pdf)
-
-    *Krzysztof Rusek, José Suárez-Varela, Albert Mestres, Pere Barlet-Ros, Albert Cabellos-Aparicio.*
 
 
 
