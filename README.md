@@ -87,7 +87,7 @@ This repository is an up-to-date list of significant papers related to UAV sched
 
 1. **Unmanned Aerial Vehicles in Last-Mile Parcel Delivery: A State-of-the-Art Review**
 
-   Drones, 2025. [survey](https://doi.org/10.3390/drones9060413
+   Drones, 2025. [survey](https://doi.org/10.3390/drones9060413)
 
    *Mohamed A, Mohamed M*
 
@@ -104,5 +104,6 @@ This repository is an up-to-date list of significant papers related to UAV sched
    Computer Communications, 2021. [survey](https://doi.org/10.1016/j.comcom.2021.01.003)
 
    *Zakria Qadir, Fahim Ullah, Hafiz Suliman Munawar, Fadi Al-Turjman*
+
 
 
