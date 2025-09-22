@@ -12,18 +12,6 @@ Contributed by Peng Liang, Beibei Liu, and Jingwei Wang.
 <table>
 <tr><td colspan="2"><a href="#review-articles">1. Review Articles</a></td></tr> 
 <tr><td colspan="2"><a href="#three-dimensional-path-planning">2. 3D path planning</a></td></tr>
-<tr>
-    <td>&ensp;<a href="#basic-models">2.1 Basic Models</a></td>
-    <td>&ensp;<a href="#graph-types">2.2 Graph Types</a></td>
-</tr>
-<tr>
-    <td>&ensp;<a href="#pooling-methods">2.3 Pooling Methods</a></td>
-    <td>&ensp;<a href="#analysis">2.4 Analysis</a></td>
-</tr>
-<tr>
-    <td>&ensp;<a href="#efficiency">2.5 Efficiency</a></td>
-    <td>&ensp;<a href="#explainability">2.6 Explainability</a></td>
-</tr>
 <tr><td colspan="2"><a href="#applications">3. Applications</a></td></tr> 
 <tr>
     <td>&ensp;<a href="#smart-cities">3.1 Smart cities</a></td>
@@ -122,5 +110,6 @@ Contributed by Peng Liang, Beibei Liu, and Jingwei Wang.
 1. **Geometric Matrix Completion with Recurrent Multi-Graph Neural Networks.** NIPS 2017. [paper](https://arxiv.org/abs/1704.06803)
 
     *Federico Monti, Michael M. Bronstein, Xavier Bresson.*
+
 
 
