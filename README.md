@@ -61,6 +61,18 @@ Contributed by Peng Liang, Beibei Liu, and Jingwei Wang.
 
 ## [Large language model](#content)
 
+1. **Semantic Scene Understanding with Large Language Models on Unmanned Aerial Vehicles**
+
+   Drones, 2023. [survey](https://doi.org/10.3390/drones7020114)
+
+   *de Curtò J, de Zarzà I, Calafate CT*
+
+2. **A comprehensive survey of research towards AI-enabled unmanned aerial systems in pre-, active-, and post-wildfire management**
+
+   Information Fusion, 2024. [survey](https://doi.org/10.1016/j.inffus.2024.102369)
+
+   *Sayed Pedram Haeri Boroujeni, Abolfazl Razi, et al.*
+
 ## [Applications](#content)
 
 ### [Smart cities](#content)
@@ -76,6 +88,7 @@ Contributed by Peng Liang, Beibei Liu, and Jingwei Wang.
 
 
 ### [Monitoring](#content)
+
 
 
 
