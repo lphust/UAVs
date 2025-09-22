@@ -40,7 +40,7 @@ Contributed by Peng Liang, Beibei Liu, and Jingwei Wang.
     
 ## [Three-dimensional path planning](#content)   
 
-   **Unmanned aerial vehicles (UAVs): practical aspects, applications, open challenges, security issues, and future trends**
+1. **Unmanned aerial vehicles (UAVs): practical aspects, applications, open challenges, security issues, and future trends**
 
    Intelligent Service Robotics, 2023. [survey](https://doi.org/10.1007/s11370-022-00452-4)
 
@@ -61,6 +61,7 @@ Contributed by Peng Liang, Beibei Liu, and Jingwei Wang.
 
 
 ### [Monitoring](#content)
+
 
 
 
