@@ -20,7 +20,7 @@ This repository is an up-to-date list of significant papers related to UAV sched
 </tr> 
 <tr>
     <td>&ensp;<a href="#delivery">6.3 Delivery/Transportation</a></td>
-    <td>&ensp;<a href="#monitoring">6.4 Monitoring</a></td>
+    <td>&ensp;<a href="#monitoring">6.4 Monitoring/Emergency response</a></td>
 </tr>
 
 
@@ -98,7 +98,7 @@ This repository is an up-to-date list of significant papers related to UAV sched
 
    *Mohamed A, Mohamed M*
 
-### [Monitoring](#content)
+### [Monitoring/Emergency response](#content)
 
 1. **A comprehensive survey of research towards AI-enabled unmanned aerial systems in pre-, active-, and post-wildfire management**
 
@@ -111,6 +111,7 @@ This repository is an up-to-date list of significant papers related to UAV sched
    Computer Communications, 2021. [survey](https://doi.org/10.1016/j.comcom.2021.01.003)
 
    *Zakria Qadir, Fahim Ullah, Hafiz Suliman Munawar, Fadi Al-Turjman*
+
 
 
 
