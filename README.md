@@ -10,16 +10,19 @@ Contributed by Peng Liang, Beibei Liu, and Jingwei Wang.
 ## [Table of Content](#content)
 
 <table>
-<tr><td colspan="2"><a href="#review-articles">1. Review articles</a></td></tr> 
+<tr><td colspan="2"><a href="#review-articles">1. Review articles</a></td></tr>
 <tr><td colspan="2"><a href="#three-dimensional-path-planning">2. 3D path planning</a></td></tr>
-<tr><td colspan="2"><a href="#applications">3. Applications</a></td></tr> 
+<tr><td colspan="2"><a href="#multi-agent-systems">3. Multi-agent systems</a></td></tr>
+<tr><td colspan="2"><a href="#multimodal-learning">4. Multimodal learning</a></td></tr>
+<tr><td colspan="2"><a href="#large-language-model">5. Large language model</a></td></tr>
+<tr><td colspan="2"><a href="#applications">6. Applications</a></td></tr>
 <tr>
-    <td>&ensp;<a href="#smart-cities">3.1 Smart cities</a></td>
-    <td>&ensp;<a href="#agriculture">3.2 Agriculture</a></td>
+    <td>&ensp;<a href="#smart-cities">6.1 Smart cities</a></td>
+    <td>&ensp;<a href="#agriculture">6.2 Agriculture</a></td>
 </tr> 
 <tr>
-    <td>&ensp;<a href="#delivery">3.3 Delivery</a></td>
-    <td>&ensp;<a href="#monitoring">3.4 Monitoring</a></td>
+    <td>&ensp;<a href="#delivery">6.3 Delivery</a></td>
+    <td>&ensp;<a href="#monitoring">6.4 Monitoring</a></td>
 </tr>
 
 
@@ -52,6 +55,12 @@ Contributed by Peng Liang, Beibei Liu, and Jingwei Wang.
 
    *Shubhani Aggarwal, Neeraj Kumar*
 
+## [Multi-Agent Systems](#content)
+
+## [Multimodal learning](#content)
+
+## [Large language model](#content)
+
 ## [Applications](#content)
 
 ### [Smart cities](#content)
@@ -67,6 +76,7 @@ Contributed by Peng Liang, Beibei Liu, and Jingwei Wang.
 
 
 ### [Monitoring](#content)
+
 
 
 
