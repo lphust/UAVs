@@ -27,6 +27,13 @@ This repository is an up-to-date list of significant papers related to UAV sched
 </table>
 
 ## [Review articles](#content)
+
+1. **The Drone Scheduling Problem: A Systematic State-of-the-Art Review**
+
+   IEEE Transactions on Intelligent Transportation Systems, 2022. [survey](https://doi.org/10.1109/TITS.2022.3155072)
+
+   *J. Pasha et al.*
+
 1. **Swarm intelligence algorithms for multiple unmanned aerial vehicles collaboration: a comprehensive review**
 
    Artificial Intelligence Review, 2023. [paper](https://doi.org/10.1007/s10462-022-10281-7)
@@ -104,6 +111,7 @@ This repository is an up-to-date list of significant papers related to UAV sched
    Computer Communications, 2021. [survey](https://doi.org/10.1016/j.comcom.2021.01.003)
 
    *Zakria Qadir, Fahim Ullah, Hafiz Suliman Munawar, Fadi Al-Turjman*
+
 
 
 
