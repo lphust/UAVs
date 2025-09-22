@@ -65,36 +65,44 @@ This repository is an up-to-date list of significant papers related to UAV sched
 
    *de Curtò J, de Zarzà I, Calafate CT*
 
-2. **A comprehensive survey of research towards AI-enabled unmanned aerial systems in pre-, active-, and post-wildfire management**
+## [Applications](#content)
+
+### [Smart cities](#content)
+
+1. **Unmanned aerial vehicles based low-altitude economy with lifecycle techno-economic-environmental analysis for sustainable and smart cities**
+
+   Journal of Cleaner Production, 2025. [survey](https://doi.org/10.1016/j.jclepro.2025.145050)
+
+   *Yuekuan Zhou*
+
+### [Agriculture](#content)
+
+1. **Recent Advances in Crop Disease Detection Using UAV and Deep Learning Techniques**
+
+   Remote Sensing, 2023. [survey](https://doi.org/10.3390/rs15092450)
+
+   *Shahi, Tej Bahadur, Cheng-Yuan Xu, Arjun Neupane, and William Guo*
+
+### [Delivery](#content)
+
+1. **Unmanned Aerial Vehicles in Last-Mile Parcel Delivery: A State-of-the-Art Review**
+
+   Drones, 2025. [survey](https://doi.org/10.3390/drones9060413
+
+   *Mohamed A, Mohamed M*
+
+### [Monitoring](#content)
+
+1. **A comprehensive survey of research towards AI-enabled unmanned aerial systems in pre-, active-, and post-wildfire management**
 
    Information Fusion, 2024. [survey](https://doi.org/10.1016/j.inffus.2024.102369)
 
    *Sayed Pedram Haeri Boroujeni, Abolfazl Razi, et al.*
 
-## [Applications](#content)
+2. **Addressing disasters in smart cities through UAVs path planning and 5G communications: A systematic review**
+   
+   Computer Communications, 2021. [survey](https://doi.org/10.1016/j.comcom.2021.01.003)
 
-### [Smart cities](#content)
-
-
-
-### [Agriculture](#content)
-
-
-
-### [Delivery](#content)
-
-
-
-### [Monitoring](#content)
-
-
-
-
-
-
-
-
-
-
+   *Zakria Qadir, Fahim Ullah, Hafiz Suliman Munawar, Fadi Al-Turjman*
 
 
