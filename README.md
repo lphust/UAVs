@@ -10,7 +10,7 @@ Contributed by Peng Liang, Beibei Liu, and Jingwei Wang.
 ## [Table of Content](#content)
 
 <table>
-<tr><td colspan="2"><a href="#survey-papers">1. Survey</a></td></tr> 
+<tr><td colspan="2"><a href="#survey-papers">1. Review Articles</a></td></tr> 
 <tr><td colspan="2"><a href="#models">2. Models</a></td></tr>
 <tr>
     <td>&ensp;<a href="#basic-models">2.1 Basic Models</a></td>
@@ -1966,6 +1966,7 @@ Contributed by Peng Liang, Beibei Liu, and Jingwei Wang.
 1. **Unveiling the potential of Graph Neural Networks for network modeling and optimization in SDN.** ACM SOSR 2019. [paper](https://arxiv.org/pdf/1901.08113.pdf)
 
     *Krzysztof Rusek, José Suárez-Varela, Albert Mestres, Pere Barlet-Ros, Albert Cabellos-Aparicio.*
+
 
 
 
