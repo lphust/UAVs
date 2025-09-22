@@ -66,7 +66,7 @@ Contributed by Peng Liang, Beibei Liu, and Jingwei Wang.
 ## [Review articles](#content)
 1. **Swarm intelligence algorithms for multiple unmanned aerial vehicles collaboration: a comprehensive review.** Artificial Intelligence Review, 2023. [paper](https://doi.org/10.1007/s10462-022-10281-7)
 
-    *Tang, J., Duan, H. & Lao, S.* 
+    *Jun Tang, Haibin Duan & Songyang Lao* 
 
 1. **Graph Neural Networks: A Review of Methods and Applications.** AI Open 2020. [paper](https://doi.org/10.1016/j.aiopen.2021.01.001)
    
@@ -1966,6 +1966,7 @@ Contributed by Peng Liang, Beibei Liu, and Jingwei Wang.
 1. **Unveiling the potential of Graph Neural Networks for network modeling and optimization in SDN.** ACM SOSR 2019. [paper](https://arxiv.org/pdf/1901.08113.pdf)
 
     *Krzysztof Rusek, José Suárez-Varela, Albert Mestres, Pere Barlet-Ros, Albert Cabellos-Aparicio.*
+
 
 
 
