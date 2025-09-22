@@ -46,6 +46,12 @@ Contributed by Peng Liang, Beibei Liu, and Jingwei Wang.
 
    *Syed Agha Hassnain Mohsan, Nawaf Qasem Hamood Othman, Yanlong Li, Mohammed H. Alsharif & Muhammad Asghar Khan*
 
+1. **Path planning techniques for unmanned aerial vehicles: A review, solutions, and challenges**
+
+   Computer Communications, 2020. [survey](https://doi.org/10.1016/j.comcom.2019.10.014)
+
+   *Shubhani Aggarwal, Neeraj Kumar*
+
 ## [Applications](#content)
 
 ### [Smart cities](#content)
@@ -61,6 +67,7 @@ Contributed by Peng Liang, Beibei Liu, and Jingwei Wang.
 
 
 ### [Monitoring](#content)
+
 
 
 
