@@ -74,9 +74,7 @@ Contributed by Peng Liang, Beibei Liu, and Jingwei Wang.
 
    Drones, 2022. [paper](https://doi.org/10.3390/drones6060147)
 
-1. **Self-Supervised Learning of Graph Neural Networks: A unified view.** TPAMI 2022. [paper](https://ieeexplore.ieee.org/abstract/document/9764632)
-
-    *Yaochen Xie, Zhao Xu, Jingtun Zhang, Zhangyang Wang, Shuiwang Ji.*
+   *Mohsan SAH, Khan MA, Noor F, Ullah I, Alsharif MH*
     
 ## [Models](#content)   
 
@@ -1916,6 +1914,7 @@ Contributed by Peng Liang, Beibei Liu, and Jingwei Wang.
 1. **Unveiling the potential of Graph Neural Networks for network modeling and optimization in SDN.** ACM SOSR 2019. [paper](https://arxiv.org/pdf/1901.08113.pdf)
 
     *Krzysztof Rusek, José Suárez-Varela, Albert Mestres, Pere Barlet-Ros, Albert Cabellos-Aparicio.*
+
 
 
 
