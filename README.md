@@ -5,8 +5,6 @@ UAVs: Unmanned Aerial Vehicles
 
 This repository is an up-to-date list of significant papers related to UAV scheduling. It covers the integration of scheduling with four other domains : three-dimensional path planning, multi-agent systems, multimodal learning and large language model.
 
-Contributed by Peng Liang, Beibei Liu, and Jingwei Wang.
-
 ## [Table of Content](#content)
 
 <table>
@@ -88,6 +86,7 @@ Contributed by Peng Liang, Beibei Liu, and Jingwei Wang.
 
 
 ### [Monitoring](#content)
+
 
 
 
