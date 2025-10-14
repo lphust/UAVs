@@ -17,9 +17,9 @@ This repository is an up-to-date list of significant papers related to UAVs sche
 
 ## [Simulation Platform](#simulation-platform)
 
-### [XTDrone](https://gitee.com/robin_shaun/XTDrone#https://gitee.com/link?target=https%3A%2F%2Fwww.yuque.com%2Fxtdrone%2Fmanual_cn)
+### [XTDrone](https://gitee.com/robin_shaun/XTDrone)
 
-### [Prometheus](https://gitee.com/Fllying/Prometheus#https://gitee.com/link?target=https%3A%2F%2Fwww.amovlab.com%2Fdocument)
+### [Prometheus](https://gitee.com/Fllying/Prometheus)
 
 ### [RlfySim](https://rflysim.com/doc/zh/)
 
