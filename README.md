@@ -15,6 +15,14 @@ This repository is an up-to-date list of significant papers related to UAVs sche
 
 ### [Semantic Drone Dataset](https://github.com/japgarrido/pix2pix_image-generation)
 
+## [Simulation Platform](#simulation-platform)
+
+### [XTDrone](https://gitee.com/robin_shaun/XTDrone#https://gitee.com/link?target=https%3A%2F%2Fwww.yuque.com%2Fxtdrone%2Fmanual_cn)
+
+### [Prometheus](https://gitee.com/Fllying/Prometheus#https://gitee.com/link?target=https%3A%2F%2Fwww.amovlab.com%2Fdocument)
+
+### [RlfySim](https://rflysim.com/doc/zh/)
+
 ## [Table of Content](#content)
 
 <table>
